@@ -1,0 +1,1 @@
+import{Q as o}from"./QBtn.1e42a5f4.js";import{_ as t,x as e,y as s,z as r,I as a}from"./index.ddcf8c37.js";var n="/assets/pomme.d1c06032.png";const c={setup(){return{}}},p=a("img",{src:n,alt:"icon"},null,-1);function _(i,m,l,u,d,f){return e(),s(o,null,{default:r(()=>[p]),_:1})}var $=t(c,[["render",_]]);export{$ as I};
